@@ -1,0 +1,1 @@
+Repository contains Word2Vec presentation material for the final project in Scientific Computation for Social Scientists (Spring 2023). Includes 2 Jupyter Notebooks, Keynote Presentation and Virtual Environment for code replication.
